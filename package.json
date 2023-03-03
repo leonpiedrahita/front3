@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "main.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "vue": "^3.2.47"
